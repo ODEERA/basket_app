@@ -7,6 +7,13 @@ const cartItemsList = document.querySelector('.cart-items') // Список то
 const totalPriceElement = document.querySelector('.total-price') // Итоговая сумма
 const productForm = document.querySelector('#product-form') // Форма добавления товара
 
+// Проверка на null
+if (!cartIcon) console.error('Элемент .cart-icon не найден')
+if (!cartModal) console.error('Элемент .cart-modal не найден')
+if (!cartItemsList) console.error('Элемент .cart-items не найден')
+if (!totalPriceElement) console.error('Элемент .total-price не найден')
+if (!productForm) console.error('Элемент #product-form не найден')
+
 // Массив корзины
 let cart = JSON.parse(localStorage.getItem('cart')) || [] // Загружаем из LocalStorage или пустой массив
 
