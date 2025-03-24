@@ -39,6 +39,22 @@
       "price": "300",
       "imgSrc": "https://s1.1zoom.ru/big7/285/Christmas_Holidays_Spruce_Balls_Snowmen_555646_2560x1706.jpg",
       "id": "ySvhgzJ"
+    },
+    {
+      "name": "Arsen",
+      "category": "Game",
+      "rating": "4",
+      "price": "500",
+      "imgSrc": "https://img.goodfon.ru/original/1920x1080/a/69/kartinka-3d-dikaya-koshka.jpg",
+      "id": "ID_1rvestpq4"
+    },
+    {
+      "name": "Rebeka",
+      "category": "Tools",
+      "rating": "3",
+      "price": "5004",
+      "imgSrc": "https://img.goodfon.ru/original/1920x1080/a/69/kartinka-3d-dikaya-koshka.jpg",
+      "id": "ID_1fql013pb"
     }
   ]
 }
